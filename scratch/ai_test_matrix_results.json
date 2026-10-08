@@ -1,0 +1,140 @@
+[
+  {
+    "provider": "Google Gemini",
+    "doc_summary": {
+      "latency_sec": 26.11,
+      "status": "PASS",
+      "preview": "1. **Executive Summary**\nThis report details Aurora Technologies Inc.\u2019s financial performance and operational outcomes for fiscal year 2024. It outlines key growth metrics, capital allocation strategies, and strategic objectives for 2025, including a"
+    },
+    "doc_qa": {
+      "latency_sec": 27.844,
+      "status": "PASS",
+      "preview": "The total consolidated revenue for fiscal year 2024 was $18.8 million.\n\n---\n*\u26a1 **Smart Cascade**: Primary model `gemini-3.8-flash` reached quota/rate limit. Seamlessly synthesized via Google `gemini-3.1-flash-lite`.*"
+    },
+    "vision": {
+      "latency_sec": 139.607,
+      "status": "PASS",
+      "preview": "Based on the image provided, here is the detailed analysis:\n\n### **Chart Type**\n*   **Bar Chart**: A vertical bar chart representing categorical data (quarters) plotted against numerical values.\n\n### **Title, Axis Labels, Units, and Legend**\n*   **Ti"
+    },
+    "data_analytics": {
+      "latency_sec": 20.937,
+      "status": "PASS",
+      "preview": "Based on the provided dataset structure (16 rows) and the sample data points, here is an analysis of the top key performance trends.\n\n### 1. High Revenue Efficiency in Asia Pacific\nThe data suggests that **Asia Pacific** is currently the highest-perf"
+    }
+  },
+  {
+    "provider": "OpenAI",
+    "doc_summary": {
+      "latency_sec": 6.072,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **OpenAI Quota Notice**: Master key authenticated, but credit balance is exhausted.\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\n### \ud83d\udccb Executive Summary (Algorithmic Synthesis)\n\n**Key Insights**: - [Key finding 1 with specific data/metrics if avail"
+    },
+    "doc_qa": {
+      "latency_sec": 2.874,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **OpenAI Quota Notice**: Master key authenticated, but credit balance is exhausted.\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\n### \ud83c\udfaf Document Answer & Retrieved Evidence\n\n**Point 1** (Matched `total`, `revenue`):\n> \"Total consolidated revenue rea"
+    },
+    "vision": {
+      "latency_sec": 3.653,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **OpenAI Quota Notice**: Master key authenticated, but credit balance is exhausted.\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\nAnalyze this chart, graph, or diagram in detail. Extract: - Chart Type (Bar, Line, Scatter, Flowchart, Architectural Di"
+    },
+    "data_analytics": {
+      "latency_sec": 3.276,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **OpenAI Quota Notice**: Master key authenticated, but credit balance is exhausted.\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\nAnalyze this dataset health summary and highlight top key performance trends: DataFrame Health: 16 rows, 8 cols. Column"
+    }
+  },
+  {
+    "provider": "DeepSeek",
+    "doc_summary": {
+      "latency_sec": 1.513,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **DeepSeek Balance Notice**: Connected to `api.deepseek.com`, but account balance is currently depleted (HTTP 402).\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\n### \ud83d\udccb Executive Summary (Algorithmic Synthesis)\n\n**Key Insights**: - [Key finding 1 wit"
+    },
+    "doc_qa": {
+      "latency_sec": 1.052,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **DeepSeek Balance Notice**: Connected to `api.deepseek.com`, but account balance is currently depleted (HTTP 402).\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\n### \ud83c\udfaf Document Answer & Retrieved Evidence\n\n**Point 1** (Matched `total`, `revenue`):\n>"
+    },
+    "vision": {
+      "latency_sec": 1.13,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **DeepSeek Balance Notice**: Connected to `api.deepseek.com`, but account balance is currently depleted (HTTP 402).\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\nAnalyze this chart, graph, or diagram in detail. Extract: - Chart Type (Bar, Line, Scat"
+    },
+    "data_analytics": {
+      "latency_sec": 0.931,
+      "status": "PASS",
+      "preview": "\ud83d\udcb3 **DeepSeek Balance Notice**: Connected to `api.deepseek.com`, but account balance is currently depleted (HTTP 402).\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\nAnalyze this dataset health summary and highlight top key performance trends: DataFrame"
+    }
+  },
+  {
+    "provider": "Groq",
+    "doc_summary": {
+      "latency_sec": 2.385,
+      "status": "PASS",
+      "preview": "1. **Executive Summary**: This document presents Aurora Technologies Inc.'s 2024-2025 Annual Strategic Report, detailing a 28.5% year-over-year revenue increase to $18.8 million and an operating margin expansion to 24.1%. It outlines regional perform"
+    },
+    "doc_qa": {
+      "latency_sec": 17.225,
+      "status": "PASS",
+      "preview": "Based on the provided document, the specific term \"total operating revenue\" is not explicitly stated. However, the document provides the following related financial figures in the **Executive Summary & Corporate Overview**:\n\n*   **Total consolidated "
+    },
+    "vision": {
+      "latency_sec": 0.778,
+      "status": "PASS",
+      "preview": "\u26a0\ufe0f **Groq Cloud Fallback**: Target model could not be reached.\n\n\ud83d\udd04 **Automated Offline Fallback Analysis:**\n\nAnalyze this chart, graph, or diagram in detail. Extract: - Chart Type (Bar, Line, Scatter, Flowchart, Architectural Diagram, etc.) - Title, A"
+    },
+    "data_analytics": {
+      "latency_sec": 3.925,
+      "status": "PASS",
+      "preview": "Based on the provided DataFrame health summary and sample data, here is an analysis of the dataset structure and the **top key performance trends** that can be inferred from the visible sample.\n\n### 1. Dataset Health Assessment\n*   **Structure**: The"
+    }
+  },
+  {
+    "provider": "Ollama",
+    "doc_summary": {
+      "latency_sec": 2.089,
+      "status": "PASS",
+      "preview": "\u26a0\ufe0f **Model Not Found**: Ollama is running, but model `llama3.2` is not pulled.\n\nRun in your terminal: `ollama pull llama3.2`\n\n*Or switch to **Offline Heuristics** in the sidebar for instant local execution.*"
+    },
+    "doc_qa": {
+      "latency_sec": 2.075,
+      "status": "PASS",
+      "preview": "\u26a0\ufe0f **Model Not Found**: Ollama is running, but model `llama3.2` is not pulled.\n\nRun in your terminal: `ollama pull llama3.2`\n\n*Or switch to **Offline Heuristics** in the sidebar for instant local execution.*"
+    },
+    "vision": {
+      "latency_sec": 2.044,
+      "status": "PASS",
+      "preview": "\u26a0\ufe0f **Model Not Found**: Ollama is running, but model `llama3.2` is not pulled.\n\nRun in your terminal: `ollama pull llama3.2`\n\n*Or switch to **Offline Heuristics** in the sidebar for instant local execution.*"
+    },
+    "data_analytics": {
+      "latency_sec": 2.058,
+      "status": "PASS",
+      "preview": "\u26a0\ufe0f **Model Not Found**: Ollama is running, but model `llama3.2` is not pulled.\n\nRun in your terminal: `ollama pull llama3.2`\n\n*Or switch to **Offline Heuristics** in the sidebar for instant local execution.*"
+    }
+  },
+  {
+    "provider": "Offline Heuristics",
+    "doc_summary": {
+      "latency_sec": 0.003,
+      "status": "PASS",
+      "preview": "### \ud83d\udccb Executive Summary (Algorithmic Synthesis)\n\n**Key Insights**: - [Key finding 1 with specific data/metrics if available] - [Key finding 2] - [Key finding 3] 3. OPERATIONAL DEVELOPMENTS & REGIONAL PERFORMANCE The Asia-Pacific division demonstrated"
+    },
+    "doc_qa": {
+      "latency_sec": 0.006,
+      "status": "PASS",
+      "preview": "### \ud83c\udfaf Document Answer & Retrieved Evidence\n\n**Point 1** (Matched `total`, `revenue`):\n> \"Total consolidated revenue reached $18.8 million, representing a 28.5% year-over-year increase compared to fiscal year 2023.\"\n\n**Point 2** (Matched `revenue`):\n>"
+    },
+    "vision": {
+      "latency_sec": 0.0,
+      "status": "PASS",
+      "preview": "Analyze this chart, graph, or diagram in detail. Extract: - Chart Type (Bar, Line, Scatter, Flowchart, Architectural Diagram, etc.) - Title, Axis Labels, Units, and Legend Categories - Key Data Points, Highs, Lows, and Observable Trends - Strategic C"
+    },
+    "data_analytics": {
+      "latency_sec": 0.003,
+      "status": "PASS",
+      "preview": "Analyze this dataset health summary and highlight top key performance trends: DataFrame Health: 16 rows, 8 cols. Columns: ['Quarter', 'Region', 'Product_Category', 'Revenue_USD', 'Ad_Spend_USD', 'Units_Sold', 'Customer_Satisfaction_Score', 'Customer_"
+    }
+  }
+]

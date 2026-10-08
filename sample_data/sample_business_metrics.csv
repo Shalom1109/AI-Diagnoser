@@ -1,0 +1,17 @@
+Quarter,Region,Product_Category,Revenue_USD,Ad_Spend_USD,Units_Sold,Customer_Satisfaction_Score,Customer_Churn_Rate
+Q1-2024,North America,Enterprise Cloud,1250000,180000,420,9.2,0.021
+Q1-2024,Europe,Enterprise Cloud,980000,150000,310,8.9,0.028
+Q1-2024,Asia Pacific,Enterprise Cloud,1420000,210000,530,9.4,0.018
+Q1-2024,Latin America,Hardware & IoT,450000,75000,890,8.5,0.045
+Q2-2024,North America,Enterprise Cloud,1380000,195000,460,9.3,0.019
+Q2-2024,Europe,Enterprise Cloud,1050000,162000,340,9.0,0.025
+Q2-2024,Asia Pacific,Enterprise Cloud,1650000,240000,610,9.5,0.016
+Q2-2024,Latin America,Hardware & IoT,520000,82000,1020,8.7,0.039
+Q3-2024,North America,Enterprise Cloud,1520000,215000,510,9.3,0.018
+Q3-2024,Europe,Enterprise Cloud,1180000,178000,380,9.1,0.023
+Q3-2024,Asia Pacific,Enterprise Cloud,1890000,270000,700,9.6,0.014
+Q3-2024,Latin America,Hardware & IoT,590000,91000,1150,8.8,0.035
+Q4-2024,North America,Enterprise Cloud,1750000,245000,580,9.5,0.015
+Q4-2024,Europe,Enterprise Cloud,1340000,198000,430,9.2,0.021
+Q4-2024,Asia Pacific,Enterprise Cloud,2180000,310000,810,9.7,0.012
+Q4-2024,Latin America,Hardware & IoT,680000,105000,1320,8.9,0.032
